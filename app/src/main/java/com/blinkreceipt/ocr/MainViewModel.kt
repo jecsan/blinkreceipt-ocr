@@ -9,8 +9,6 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 
 
-
-
 class MainViewModel : ViewModel() {
 
     private val confidenceThreshold = 90f
