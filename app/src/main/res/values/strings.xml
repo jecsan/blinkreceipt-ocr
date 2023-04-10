@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">BlinkReceipt OCR2</string>
+    <string name="camera_permission_required">Camera Permission Required</string>
+    <string name="this_app_requires_camera_permission_to_scan_receipts">This app requires camera permission to scan receipts</string>
+    <string name="ok">OK</string>
+    <string name="scan_again">Scan Again</string>
+    <string name="scan_results">Scan Results</string>
+    <string name="products">Products</string>
 </resources>
